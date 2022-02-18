@@ -12,8 +12,6 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-# Discord plugin
-.idea/**/discord.xml
 
 # AWS User-specific
 .idea/**/aws.xml
